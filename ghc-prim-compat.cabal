@@ -5,8 +5,8 @@ synopsis:            Compatibility module for GHC primops.
 homepage:            https://github.com/thoughtpolice/ghc-prim-compat/wiki
 bug-reports:         http://github.com/thoughtpolice/ghc-prim-compat/issues
 license-file:        LICENSE.txt
-copyright:           Copyright (c) Austin Seipp 2011-2013
-author:              Austin Seipp
+copyright:           Copyright (c) Austin Seipp 2013-2014, Jan Stolarek 2013
+author:              Austin Seipp, Jan Stolarek
 maintainer:          Austin Seipp <austin@well-typed.com>
 build-type:          Simple
 cabal-version:       >= 1.2

@@ -1,3 +1,4 @@
 Author, target of blame:
 
   Austin Seipp <austin [@at] well-typed [.dot] com>
+  Jan Stolarek <jan [.dot] stolarek [@at] p [.dot] lodz [.dot] pl>
